@@ -6,6 +6,12 @@
   </p>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/andressa-andrade-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Andressa-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 ## 🚀 About Me
 Sou desenvolvedora em transição de carreira para a área de **Backend**, com foco na construção de APIs robustas, bem estruturadas e escaláveis.
 
